@@ -1,5 +1,5 @@
 # Node_Crawler_lj
-## Nodejs爬取杭州链家楼盘房价并存储mysql、xlsx
+## Nodejs爬取楼盘房价并存储至mysql或xlsx
 ## npm install
 安装依赖
 ## node nodelj
